@@ -1,7 +1,9 @@
+# build files
 /bin
 /build
-build.properties
-build.xml
+
+# wpilib files
 /dist
-*.project
+
+# eclipse files
 .classpath
